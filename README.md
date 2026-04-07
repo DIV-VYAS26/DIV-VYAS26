@@ -1,9 +1,8 @@
-<!-- 🔥 BANNER (Replace with your own later if you want) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C83FD,100:00C896&height=200&section=header&text=Div%20Vyas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Div Vyas</h1>
+<h1 align="center">I'm Div Vyas</h1>
 <h3 align="center">💻 Computer Science Student • Machine Learning Enthusiast</h3>
 
 <p align="center">
