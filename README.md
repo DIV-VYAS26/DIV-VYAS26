@@ -104,10 +104,10 @@ I focus on machine learning, data-driven development, and writing clean, scalabl
   <a href="https://github.com/DIV-VYAS26">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github">
   </a>
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/divvyas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:divvyas26@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
